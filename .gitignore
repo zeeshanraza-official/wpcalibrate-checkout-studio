@@ -1,0 +1,28 @@
+# Development & Test Suites
+tests/
+phpunit.xml
+phpunit.xml.dist
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Archives
+*.zip
+*.tar.gz
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Caches & Logs
+*.log
+.phpunit.result.cache
